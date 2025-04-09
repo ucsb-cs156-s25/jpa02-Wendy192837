@@ -19,14 +19,8 @@ public class Developer {
         return "Wendy S.";
     }
 
-    /**
-     * Get the github id of the developer
-     * @return github id of the developer
-     */
-
     public static String getGithubId() {
-        // TODO: Change this to your github id
-        return "cgaucho";
+        return "wsong";
     }
 
     /**
